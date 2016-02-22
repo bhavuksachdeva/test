@@ -15,6 +15,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world.");
 		System.out.println("branch-1");
+		System.out.println("master modified");
 	}
 
 }
